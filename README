@@ -1,3 +1,9 @@
+---
+install: 
+	sudo apt-get install libreadline6-dev
+	chmod +x tools/config.sh
+	make
+---
 
          .ooo
           'OOOo
